@@ -11,7 +11,7 @@ import (
 )
 
 import (
-	"github.com/scalingdata/gcfg/token"
+	"github.com/dolfly/gcfg/token"
 )
 
 var fset = token.NewFileSet()

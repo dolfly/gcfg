@@ -5,7 +5,7 @@ import (
 	"log"
 )
 
-import "github.com/scalingdata/gcfg"
+import "github.com/dolfly/gcfg"
 
 func ExampleReadStringInto() {
 	cfgStr := `; Comment line
